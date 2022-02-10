@@ -19,3 +19,7 @@
 ![信息检索脑图2](https://user-images.githubusercontent.com/90636187/151200420-78d0acb0-f664-45ea-9974-0dd12f9475d7.png)
 ### 1月26日
 - 汇报日
+### 2月6日-9日
+- 研读[***Pre-training is a Hot Topic: Contextualized Document Embeddings Improve Topic Coherence***](https://aclanthology.org/2021.acl-short.96.pdf)并试图绘制ppt
+### 2月10日
+- 汇报日
